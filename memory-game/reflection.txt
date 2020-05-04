@@ -1,0 +1,26 @@
+Overview:
+I made a memory game where you have to click two tiles and it will temporary display the 
+background. If you click two of the same images they will disappear. You win if all the
+images are gone at the end.
+
+
+What was learned:
+Learned a lot more about the DOM and the child/parent relationship between elements.
+More on how to select each element and how to debug using the console throughout the
+process. I found out the importance of planning out the design before coding right away. 
+And the key to the main functionality being event.currentTarget which selects the exact
+target that the user clicks on. Before that I didn't know how to select a target because
+they had multiple class names and couldn't be replaced with an id. Main data structure 
+I used was an array where I'd input the classname of the selected element. This took a lot
+longer than I had hoped but I'm happy with the results. Probably could have made a few 
+more comments throughout but I think it's pretty self explanatory at this point.
+
+
+Improvements to be made:
+Lots of improvements to be made but for now it is functional and looks okay. 
+-Can't select more than 2 objects at a time
+-They both timeout at the same time
+-Dont remove the div, rather mark it as complete somehow
+-Add more avengers 
+-Giving the values absolute positioning
+

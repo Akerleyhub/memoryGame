@@ -1,0 +1,42 @@
+#game div {
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  margin: 30px;
+}
+#intro{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*sets background to character*/
+div.red{
+  background-image:url('https://img1.looper.com/img/gallery/the-real-reason-marvel-decided-not-to-make-iron-man-4/intro-1575053226.jpg');
+  background-size: 200px 200px; 
+}
+div.green{
+  background-image:url('https://s.yimg.com/ny/api/res/1.2/S4tUGLzl0oGRc7pZ.M.8pA--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9MTI4MDtoPTk2MA--/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/c86a59994801ce139fc0ef9dbc9c2a24');
+  background-size: 200px 200px; 
+}
+div.purple{
+  background-image:url('https://cdn.collider.com/wp-content/uploads/2019/05/avengers-endgame-fat-thor.jpg');
+  background-size: 200px 200px; 
+}
+div.orange{
+  background-image:url('https://cdn3.movieweb.com/i/article/UFhGHYQkFd5SwOohRWqhUiKi0NmSgO/1200:100/Avengers-Endgame-Ancient-One-Cameo-Details.jpg');
+  background-size: 200px 200px; 
+}
+div.blue{
+  background-image:url('https://www.screengeek.net/wp-content/uploads/2019/09/avengers-endgame-captain-america-1.jpg');
+  background-size: 200px 200px; 
+}
+div.yellow{
+  background-image:url('https://relevantmagazine.com/wp-content/uploads/2019/04/ThanosWasRight-800x533.jpg');
+  background-size: 200px 200px;
+}
+div.grey{
+  background-image: url('https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/18/1462461414-captain-america-civil-war-elizabeth-olsen1.jpg');
+  background-size: 200px 200px;
+}
